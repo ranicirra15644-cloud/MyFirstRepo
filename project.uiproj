@@ -1,0 +1,6 @@
+{
+  "Name": "My_First_Custom_Automation",
+  "ProjectType": "Process",
+  "Description": "This is Example for installing external source",
+  "MainFile": "Main.xaml"
+}
